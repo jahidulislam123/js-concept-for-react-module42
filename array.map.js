@@ -1,4 +1,6 @@
 
+
+
 // array of object
 const product =[
     {name: 'laptop',price:43333,brand:'lenevo',color:'silver'},
