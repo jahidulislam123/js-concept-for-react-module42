@@ -13,8 +13,8 @@ const student ={
 const about =`my name is ${student.name} age of ${student.age} has number ${Number[2]}  also liked movies ${student.movies[0]}`;
 console.log(about);
 
-
 //arrow function 
+
 //perameter cara
 const getFiftyFive =()=>55;
 // perametera ace 
