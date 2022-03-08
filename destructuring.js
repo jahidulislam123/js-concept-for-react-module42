@@ -21,7 +21,7 @@ const [first, second] = boxify[90, 54]
 const student = {
     name: 'salib khan',
     age: 32,
-    movies: ['king khan', 'dhakar mastan'];
+    movies: ['king khan', 'dhakar mastan']
 }
 
 const [firstMovie, secondMovie] = student.movies;
