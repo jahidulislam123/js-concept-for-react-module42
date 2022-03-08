@@ -38,3 +38,10 @@ const doMath =(num1,num2)=>{
 const newNumbers =[number];
 number.push(99);
 console.log(newNumbers);
+
+console.log(number);
+
+
+// creat an new array from an older array
+const currentArray =[...number,55];
+console.log(currentArray);
