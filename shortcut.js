@@ -34,3 +34,35 @@ else{
 // short cut e eta jevabe likhbo ;
 let food1 =money>100?'biriyani':'cha biscuit khabo';
 console.log(food1);
+
+let drink =(money>100&&myVar>100)?'coke':'filter water';
+console.log(drink);
+
+//short cut number to string conversion
+const num1 =52;
+console.log(num1);
+const numStr=num1+'';
+console.log(numStr);
+
+
+// string to number 
+const input ='543';
+const inputNum =+input;
+console.log(inputNum);
+
+
+//
+const isActive =true;
+const showUser =()=>console.log('display user');
+const hideUser =()=>console.log('display mama');
+
+isActive?showUser():hideUser()
+
+
+const isActive2 =false;
+const showUser2 =()=>console.log('display user');
+const hideUser2 =()=>console.log('display mama');
+
+isActive2?showUser():hideUser()
+
+isActive&& showUser();
