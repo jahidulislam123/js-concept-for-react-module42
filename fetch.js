@@ -1,0 +1,1 @@
+console.log('mamar bari jabo na dud vat khabo na');
